@@ -1,6 +1,5 @@
 # hi! 
 
-saya **Fahmi Ichwanurohman**.\
 Selamat Datang 
 <!-- Saya seorang **web developer** di [Dicoding](https://www.dicoding.com/).\ -->
 <!-- Saya bertanggung jawab pada kualitas interface dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\ -->
